@@ -1,0 +1,19 @@
+FINAL STABLE + LINKEDIN SOCIAL PREVIEW
+
+This package is based on the last stable portfolio version and does NOT contain the broken V2 terminal/hero modification.
+
+1. Upload the CONTENTS of this folder to the root of your GitHub Amrinder-Portfolio repository.
+2. Replace existing files when prompted.
+3. Commit to main.
+4. Wait for GitHub Pages deployment.
+5. Verify:
+   https://amrinderdeol.github.io/Amrinder-Portfolio/
+6. Verify the social image:
+   https://amrinderdeol.github.io/Amrinder-Portfolio/assets/social-preview.jpeg
+7. Refresh the portfolio URL in LinkedIn Post Inspector, then re-add/update the Featured link.
+
+LinkedIn Featured title:
+Creative, Brand & Marketing Portfolio | Amrinder Singh Deol
+
+LinkedIn Featured description:
+20+ years across creative direction, brand strategy, advertising and integrated marketing. Explore selected work spanning B2B and B2C campaigns, digital experiences, branding, packaging and corporate communications.
