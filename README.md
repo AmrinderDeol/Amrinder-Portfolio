@@ -1,54 +1,122 @@
-<header>
+# Amrinder Singh Deol — Creative, Brand & Marketing Portfolio
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+**Senior Creative, Brand & Marketing Professional** with 20+ years of experience across graphic design, advertising, branding, retail marketing, digital campaigns, communications, team leadership, and operational excellence.
 
-# GitHub Pages
+📍 Mountain House / Tracy, California  
+📧 mailamrinder@gmail.com  
+📞 774-622-6222  
+🔗 LinkedIn: https://linkedin.com/in/amrinder-singh-deol  
+🎨 Portfolio: https://t.ly/kB2Eh
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## Professional Profile
+I combine creative direction and visual storytelling with marketing strategy, AI-enabled workflows, analytics, stakeholder management, training, and process improvement. My background spans global B2B MarTech, advertising agencies, fashion retail, tourism, transportation, high-volume retail, and Amazon fulfillment operations.
 
-</header>
+I am open to opportunities in **Creative Direction, Senior Graphic Design, Brand Design, Marketing Communications, Digital Marketing, Content & Campaign Design, Creative Operations, Learning & Development, and Process Improvement**.
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+## Core Expertise
+- Brand Strategy & Creative Direction
+- Integrated Marketing & Advertising
+- Graphic Design & Visual Identity Systems
+- Digital, Social, CRM, Print & In-Store Campaigns
+- Adobe Photoshop, Illustrator & InDesign
+- Figma, Canva & CorelDRAW
+- Motion Graphics & Multimedia
+- HTML5 / Rich Media Advertising
+- AI-Powered Creative Workflows & Automation
+- Google Analytics & HubSpot
+- Team Leadership, Training & Coaching
+- Project & Stakeholder Management
+- Process Improvement & Operational Excellence
 
-## Step 1: Enable GitHub Pages
+## Selected Impact
+- **25% market share growth** associated with SaaS rebranding work at JABMO.
+- **30% retail sales increase** from integrated digital and print campaign work.
+- **35% reduction in creative production lead time** through AI-assisted workflows and process optimization.
+- Led global creative delivery for enterprise digital and account-based marketing campaigns.
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+## Experience
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+### Amazon — SCK8 Fulfillment Center, Oakley, CA
+**Learning Ambassador / POC / PIT Operator | Nov 2025 – Present**
+- Selected as a Learning Ambassador and Point of Contact, supporting associate training, coaching, onboarding, huddles, and operational execution.
+- Operate PIT equipment across inbound and outbound workflows while maintaining safety, quality, and productivity standards.
+- Support floor leadership with workflow coordination, associate guidance, standard-work reinforcement, and real-time problem solving.
+- Identify and propose improvements to pallet staging, corral organization, material flow, and shift handoffs.
+- Partner with Process Assistants, Area Managers, Learning teams, and associates to resolve workflow constraints.
 
-### :keyboard: Activity: Enable GitHub Pages
+### Walmart — Tracy, CA
+**Front End Team Lead | Jan 2025 – Nov 2025**
+- Led frontline customer experience in a high-volume retail environment.
+- Oversaw checkout, self-checkout, customer service, and money-services workflows.
+- Partnered with leadership on service standards, customer journeys, operational execution, and in-store brand consistency.
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+### ATL LLC (Aman Truck Lines) — USA
+**Social Media & Brand Manager | Apr 2023 – Feb 2024**
+- Led 360° digital brand campaigns across social, web, CRM, and paid channels.
+- Designed identity systems, creative guidelines, sales collateral, and integrated marketing communications.
+- Optimized content and campaigns using AI tools and analytics.
 
-<footer>
+### JABMO — Global B2B MarTech Platform
+**Senior Creative Design Team Lead | 2018 – 2023**
+- Led a global creative team delivering enterprise digital and account-based marketing campaigns.
+- Introduced AI-assisted workflows to reduce creative lead times.
+- Aligned creative output with product, marketing, sales, and data teams.
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+### La Vallée des Couleurs — Mauritius
+**Media & Communications Manager | 2016 – 2018**
+- Directed creative strategy, media, communications, and experiential marketing campaigns.
+- Designed brand environments, promotional materials, and visitor communications.
 
----
+### Vision 7 Group — Mauritius
+**Marketing Manager | 2014 – 2016**
+- Led marketing, branding, and advertising across fashion retail operations.
+- Developed marketing/media plans, digital awareness campaigns, and footfall analysis.
+- Managed training, media partnerships, agencies, competitive monitoring, and market trends.
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+### McCann Redhouse — Mauritius
+**Senior Designer | 2010 – 2014**
+- Delivered branding, advertising, and integrated campaigns for FMCG and consumer brands.
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+### Grey Worldwide — Mauritius
+**Multimedia Manager | 2007 – 2010**
+- Produced interactive media, digital brand content, and multimedia campaign assets.
 
-</footer>
+### Diadeis — Mauritius
+**Team Leader | 2003 – 2007**
+- Led packaging and brand-production workflows, including production management for Kraft Foods France.
+
+## Tools & Platforms
+**Creative:** Adobe Photoshop, Illustrator, InDesign, After Effects, Premiere Pro, Figma, Canva, CorelDRAW  
+**Marketing / Analytics:** Google Analytics, HubSpot  
+**Collaboration:** Microsoft Office, Slack, Monday.com, JIRA, Confluence  
+**Emerging Workflow:** AI-powered design and automation platforms
+
+## Education
+- **MBA — Marketing & Advertising**
+- **Bachelor of Arts — Graphic Design & Multimedia**
+
+## Certifications
+- Six Sigma — Black Belt
+- Account-Based Marketing Foundations
+- Advanced Content Marketing
+- SAP Transportation Management Overview
+- LinkedIn Marketing Labs — Certified Marketing Insider
+- HubSpot Academy — Digital Advertising Certified
+- HubSpot Academy — Inbound Marketing Certified
+- Amazon Learning Ambassador
+
+## Languages
+English · Hindi · Punjabi · French · Mauritian Creole
+
+## Portfolio Case Studies
+This repository is structured to grow into a complete portfolio. Case-study templates are available in the `projects/` directory for adding approved visuals, campaign context, responsibilities, process, and measurable outcomes without exposing confidential client information.
+
+## Resume
+Add the latest PDF resume to `assets/Amrinder_Singh_Deol_Resume_2026.pdf` before publishing, or link to your preferred hosted resume.
+
+## Contact
+I am open to discussing senior creative, brand, marketing, design, creative-operations, learning, and process-improvement opportunities in California, hybrid, or remote environments.
+
+**Email:** mailamrinder@gmail.com  
+**LinkedIn:** https://linkedin.com/in/amrinder-singh-deol  
+**Portfolio:** https://t.ly/kB2Eh
