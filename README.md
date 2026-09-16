@@ -1,20 +1,9 @@
-# Amrinder Singh Deol — Professional Portfolio
+# Amrinder Singh Deol — Portfolio 2026
 
-Recruiter-facing portfolio website for **Creative Direction, Brand Strategy, Marketing, Graphic Design, Creative Operations and Design Leadership** opportunities.
+GitHub Pages-ready static portfolio.
 
-## Live site
-After deployment through GitHub Pages, the site is served from this repository's `main` branch.
+## Publish
+Upload the contents of this folder to the root of the `main` branch of your GitHub repository.
+GitHub Pages should be configured to deploy from `main` / `(root)`.
 
-## Structure
-- `index.html` — portfolio website
-- `styles.css` — responsive visual system
-- `script.js` — lightweight interaction
-- `assets/Amrinder_Singh_Deol_Resume_2026.pdf` — downloadable résumé
-
-## Positioning
-Senior Creative, Brand & Marketing Professional with 20+ years across advertising, MarTech, retail, communications, transportation and operational leadership.
-
-## Contact
-- Email: mailamrinder@gmail.com
-- LinkedIn: linkedin.com/in/amrinder-singh-deol
-- Portfolio: https://t.ly/kB2Eh
+The homepage is `index.html`.
